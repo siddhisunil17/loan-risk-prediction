@@ -1,4 +1,6 @@
-# loan-risk-prediction
+# Loan Risk Prediction
+
+Machine Learning project to predict loan default risk using real-world financial data.
 
 This project builds a machine learning pipeline to predict loan default risk using historical loan application and repayment-related features. The workflow covers data auditing, missing value analysis, leakage removal, feature engineering, encoding, scaling, baseline modeling, and model improvement using XGBoost.
 
