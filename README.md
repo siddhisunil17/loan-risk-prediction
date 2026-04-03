@@ -111,3 +111,9 @@ An XGBoost classifier was then trained to improve predictive performance.
 ```text
 Accuracy: 0.57
 ROC-AUC: 0.5835
+```
+
+## Author
+
+Siddhi Sunil  
+GitHub: https://github.com/siddhisunil17
